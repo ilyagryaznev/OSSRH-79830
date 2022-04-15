@@ -26,9 +26,9 @@
     </developers>
 
     <scm>
-        <connection>scm:git:git@github.com:ilyagryaznev/OSSRH-79830.git</connection>
+        <connection>scm:svn:git@github.com:ilyagryaznev/OSSRH-79830.git</connection>
         <url>https://github.com:ilyagryaznev/OSSRH-79830</url>
-        <developerConnection>scm:git:git@github.com:ilyagryaznev/OSSRH-79830.git</developerConnection>
+        <developerConnection>scm:svn:git@github.com:ilyagryaznev/OSSRH-79830.git</developerConnection>
         <tag>HEAD</tag>
     </scm>
 
