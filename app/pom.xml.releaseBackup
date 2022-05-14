@@ -4,7 +4,7 @@
 
     <groupId>io.github.ilyagryaznev</groupId>
     <artifactId>pushlibrary</artifactId>
-    <version>3�.16-SNAPSHOT</version>
+    <version>3.17-SNAPSHOT</version>
 
 <description>Generate array of minimal size of pairwise tests cover all pairs of changing params</description>
 <url>https://github.com/ilyagryaznev/OSSRH-79830</url>
